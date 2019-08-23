@@ -3,13 +3,9 @@ Java Program connecting mySQL database.
 
 SOE Lab July-December 2017
 
-Instruction:
-1. Operating System: Linux.
-2. IDE: Netbeans
-3. Database: MySQL
-Note - So please prepare your system accordingly.
 
-Assignment 2
+
+
 Our institute needs to maintain a database for library management system. The database will store
 information like book name, author&#39;s name, id, issue status (available or issued), student id (if issued),
 due date (if issued), fine (@Rs.5/day after 15 days of book issue).
